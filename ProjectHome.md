@@ -1,0 +1,6 @@
+![http://planetcreator.googlecode.com/files/PlanetCreator.png](http://planetcreator.googlecode.com/files/PlanetCreator.png)
+
+With Planet Creator, you can create your own planets on the fly. You can create wallpapers, fly around or create whole texture sets for your own 3D scene or other programs like Celestia. It is written in [BlitzMax](http://www.blitzbasic.com) and uses the modules [MiniB3D](http://www.blitzbasic.com/Community/topics.php?forum=119) and [MaxGUI](http://www.blitzbasic.com/Community/topics.php?forum=117).
+
+Planet Creator takes one or two RAW basemaps, blends them together with a pseudorandom noisemap, applies a custom gradient and does some finetuning work like Emboss filter, add Polar caps or create a night map. The final planet gets calculated in a few seconds only and can be previewed together with clouds, atmosphere and glow in a nice milkyway / sun
+environment. There is a complete GUI included and you can choose from 24 predefined presets for all different types of planets very easy.
